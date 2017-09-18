@@ -33,6 +33,9 @@ public class GetStarted extends Fragment implements View.OnClickListener{
     public void onClick(View v) {
         if (v==layout) {
 
+
+
+
             //Toast.makeText(getActivity().getBaseContext(), "Touched", Toast.LENGTH_SHORT).show();
             FragmentManager fm = getFragmentManager();
 
